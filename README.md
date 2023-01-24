@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Jorge
+My name is Jorge and I am a CS Major at California State University, Northridge! I am growing more comfortable with using git and python every day and most of my commits are python projects that I've worked on to increase my familiarity with the language.
+
+I am still undecided in pursuing either a career as a full stack developer or a data scientist, but as my skills develop and I approach more idealistic real world projects, I will fully pursue that path with a passion to learn!
+
+I am always available to collaborate with others and look forward to meeting new people!
